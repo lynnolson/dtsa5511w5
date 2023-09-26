@@ -25,7 +25,7 @@ conda activate msds
 
 ### Data
 
-The [data][https://www.kaggle.com/competitions/histopathologic-cancer-detection/data](https://www.kaggle.com/competitions/gan-getting-started/data) is available through Kaggle.
+The [data](https://www.kaggle.com/competitions/histopathologic-cancer-detection/data](https://www.kaggle.com/competitions/gan-getting-started/data) is available through Kaggle.
 
 ### Usage
 
